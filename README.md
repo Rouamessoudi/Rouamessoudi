@@ -14,10 +14,7 @@ Master's student in **Cybersecurity / Networks (SSI)** — academic projects in 
 - **[PI](https://github.com/Rouamessoudi/PI)** — Integration project (Projet d'intégration)
 
 ### PFE — AgriLoRaSec
-Security of an agricultural LoRa network with OMNeT++/FLoRa:
-- Attacks: jamming, replay, wormhole
-- Dataset + ML models (Random Forest, XGBoost, ANN, LSTM)
-- Repository: will appear as **AgriLoRaSec** (private/public as needed)
+- **[AgriLoRaSec](https://github.com/Rouamessoudi/AgriLoRaSec)** (private) — LoRa agricultural network security with OMNeT++/FLoRa (jamming, replay, wormhole + ML dataset)
 
 ## Focus
 Cybersecurity · IoT / LoRa · Simulation · Machine Learning for attack detection
@@ -25,7 +22,7 @@ Cybersecurity · IoT / LoRa · Simulation · Machine Learning for attack detecti
 ## Pin these on your profile (manual — GitHub API cannot pin)
 1. Open https://github.com/Rouamessoudi
 2. Click **Customize your pins**
-3. Select: Esprit SmartLingua, SmartLingua, SmartLingua-Microservices, AWD-Training, student-management, projetdevops
+3. Select: Esprit SmartLingua, SmartLingua, SmartLingua-Microservices, AWD-Training, student-management, AgriLoRaSec (or projetdevops)
 
 ---
 GitHub: [Rouamessoudi](https://github.com/Rouamessoudi)
