@@ -1,8 +1,7 @@
 ﻿# Hi, I'm Roua Messaoudi
 
 Étudiante à **ESPRIT** — Master's student in **Cybersecurity / Networks (SSI)**.  
-Academic projects in software engineering and IoT security.  
-Stage d'été à **SUP'COM** (suivi des consultations d'achat).
+Academic projects in software engineering and IoT security.
 
 ## Featured projects
 
