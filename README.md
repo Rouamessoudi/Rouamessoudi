@@ -10,8 +10,7 @@ Academic projects in software engineering and IoT security.
 - **[AWD-Training / JobBoard-MS](https://github.com/Rouamessoudi/AWD-Training)** — Microservices training (job offers platform)
 
 
-### PFE - AgriLoRaSec
-- **[AgriLoRaSec](https://github.com/Rouamessoudi/AgriLoRaSec)** (private) — LoRa agricultural network security with OMNeT++/FLoRa (jamming, replay, wormhole + ML dataset)
+
 
 ## Focus
 Cybersecurity · IoT / LoRa · Simulation · Machine Learning for attack detection · Full-stack (Angular / Spring Boot)
